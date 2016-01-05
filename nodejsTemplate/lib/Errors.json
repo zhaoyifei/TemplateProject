@@ -1,0 +1,317 @@
+{
+  "1001": {
+    "code": "1001",
+    "sysMessage": "404请求未找到",
+    "businessMessage": "404请求未找到",
+    "httpCode": "404"
+  },
+  "1005": {
+    "code": "1005",
+    "sysMessage": "资源操作无效",
+    "businessMessage": "资源操作无效",
+    "httpCode": "404"
+  },
+  "1006": {
+    "code": "1006",
+    "sysMessage": "对资源记录操作非法",
+    "businessMessage": "对资源记录操作非法",
+    "httpCode": "404"
+  },
+
+  "1201": {
+    "code": "1201",
+    "sysMessage": "用户信息不全,无法创建用户",
+    "businessMessage": "用户信息不全,无法创建用户",
+    "httpCode": "400"
+  },
+  "1202": {
+    "code": "1202",
+    "sysMessage": "手机号码已存在",
+    "businessMessage": "手机号码已存在",
+    "httpCode": "400"
+  },
+  "1203": {
+    "code": "1203",
+    "sysMessage": "手机号码不存在",
+    "businessMessage": "手机号码不存在",
+    "httpCode": "400"
+  },
+  "1204": {
+    "code": "1204",
+    "sysMessage": "昵称已存在",
+    "businessMessage": "昵称已存在",
+    "httpCode": "400"
+  },
+  "1301": {
+    "code": "1301",
+    "sysMessage": "代理服务信息不全,无法创建",
+    "businessMessage": "代理服务信息不全,无法创建",
+    "httpCode": "400"
+  },
+  "1302": {
+    "code": "1302",
+    "sysMessage": "代理服务不存在",
+    "businessMessage": "代理服务不存在",
+    "httpCode": "400"
+  },
+  "1303": {
+    "code": "1303",
+    "sysMessage": "代理服务类型不存在",
+    "businessMessage": "代理服务类型不存在",
+    "httpCode": "400"
+  },
+  "1304": {
+    "code": "1304",
+    "sysMessage": "资源不存在",
+    "businessMessage": "资源不存在",
+    "httpCode": "400"
+  },
+  "1305": {
+    "code": "1305",
+    "sysMessage": "服务下已经有该医生",
+    "businessMessage": "服务下已经有该医生",
+    "httpCode": "400"
+  },
+  "1306": {
+  "code": "1306",
+  "sysMessage": "订单不存在",
+  "businessMessage": "订单不存在",
+  "httpCode": "400"
+  },
+  "1307": {
+    "code": "1307",
+    "sysMessage": "没有订单号",
+    "businessMessage": "没有订单号",
+    "httpCode": "400"
+  },
+  "1308": {
+    "code": "1308",
+    "sysMessage": "服务模板不存在",
+    "businessMessage": "服务模板不存在",
+    "httpCode": "400"
+  },
+  "1501": {
+    "code": "1501",
+    "sysMessage": "验证码错误",
+    "businessMessage": "验证码错误",
+    "httpCode": "400"
+  },
+  "1502": {
+    "code": "1502",
+    "sysMessage": "验证码无效，请重新获取",
+    "businessMessage": "验证码无效，请重新获取",
+    "httpCode": "400"
+  },
+  "1503": {
+    "code": "1503",
+    "sysMessage": "用户不存在",
+    "businessMessage": "用户不存在",
+    "httpCode": "400"
+  },
+  "1504": {
+    "code": "1504",
+    "sysMessage": "没有用户信息",
+    "businessMessage": "没有用户信息",
+    "httpCode": "400"
+  },
+  "1505": {
+    "code": "1505",
+    "sysMessage": "介绍人号码无效，请重试",
+    "businessMessage": "介绍人号码无效，请重试",
+    "httpCode": "400"
+  },
+  "1506": {
+    "code": "1506",
+    "sysMessage": "医生不存在",
+    "businessMessage": "医生不存在",
+    "httpCode": "400"
+  },
+  "1507": {
+    "code": "1507",
+    "sysMessage": "介绍人号码不正确",
+    "businessMessage": "介绍人号码不正确",
+    "httpCode": "400"
+  },
+  "1508": {
+    "code": "1508",
+    "sysMessage": "抱歉，介绍人未通过医疗顾问验证",
+    "businessMessage": "抱歉，介绍人未通过医疗顾问验证",
+    "httpCode": "400"
+  },
+  "1509": {
+    "code": "1509",
+    "sysMessage": "您已绑定介绍人",
+    "businessMessage": "您已绑定介绍人",
+    "httpCode": "400"
+  },
+  "1510": {
+    "code": "1510",
+    "sysMessage": "该用户不是医疗顾问",
+    "businessMessage": "该用户不是医疗顾问",
+    "httpCode": "400"
+  },
+  "1511": {
+    "code": "1511",
+    "sysMessage": "昵称中不能含有‘朱李叶’",
+    "businessMessage": "昵称中不能含有‘朱李叶’",
+    "httpCode": "400"
+  },
+  "1512": {
+    "code": "1512",
+    "sysMessage": "身份证存在，手机号不对应",
+    "businessMessage": "身份证存在，手机号不对应",
+    "httpCode": "400"
+  },
+  "1513": {
+    "code": "1513",
+    "sysMessage": "身份证不存在",
+    "businessMessage": "身份证不存在",
+    "httpCode": "400"
+  },
+  "1514": {
+    "code": "1514",
+    "sysMessage": "手机号已由其他身份证注册",
+    "businessMessage": "手机号已由其他身份证注册",
+    "httpCode": "400"
+  },
+  "1515": {
+    "code": "1515",
+    "sysMessage": "当日有未就诊病历存在，不能重复创建",
+    "businessMessage": "当日有未就诊病历存在，不能重复创建",
+    "httpCode": "400"
+  },
+  "1516": {
+    "code": "1516",
+    "sysMessage": "无身份证号和患者id，不能创建或修改用户",
+    "businessMessage": "无身份证号和患者id，不能创建或修改用户",
+    "httpCode": "400"
+  },
+  "1517": {
+    "code": "1517",
+    "sysMessage": "无身份证号或者患者id, 不能创建病历",
+    "businessMessage": "无身份证号或者患者id, 不能创建病历",
+    "httpCode": "400"
+  },
+  "1518": {
+    "code": "1518",
+    "sysMessage": "有未完成订单，不能再预约",
+    "businessMessage": "有未完成订单，不能再预约",
+    "httpCode": "400"
+  },
+  "1519": {
+    "code": "1519",
+    "sysMessage": "医生当日加号已经约满，请选择其他时间或其他医生",
+    "businessMessage": "医生当日加号已经约满，请选择其他时间或其他医生",
+    "httpCode": "400"
+  },
+  "1601": {
+    "code": "1601",
+    "sysMessage": "邀请码异常",
+    "businessMessage": "邀请码异常",
+    "httpCode": "400"
+  },
+  "2001": {
+    "code": "2001",
+    "sysMessage": "交易号已存在",
+    "businessMessage": "交易号已存在",
+    "httpCode": "400"
+  },
+  "2002": {
+    "code": "2002",
+    "sysMessage": "卡号不存在或者密码错误",
+    "businessMessage": "卡号不存在或者密码错误",
+    "httpCode": "400"
+  },
+  "2003": {
+    "code": "2003",
+    "sysMessage": "卡内余额不足",
+    "businessMessage": "卡内余额不足",
+    "httpCode": "400"
+  },
+  "2004": {
+    "code": "2004",
+    "sysMessage": "账户余额不足",
+    "businessMessage": "您的账户余额不足",
+    "httpCode": "400"
+  },
+  "2005": {
+    "code": "2005",
+    "sysMessage": "优惠券没有了",
+    "businessMessage": "优惠券没有了",
+    "httpCode": "400"
+  },
+  "2006": {
+    "code": "2006",
+    "sysMessage": "未注册优惠券",
+    "businessMessage": "未注册优惠券",
+    "httpCode": "400"
+  },
+  "2007": {
+    "code": "2007",
+    "sysMessage": "优惠券错误",
+    "businessMessage": "优惠券错误",
+    "httpCode": "400"
+  },
+  "2008": {
+    "code": "2008",
+    "sysMessage": "密码错误",
+    "businessMessage": "密码错误",
+    "httpCode": "400"
+  },
+  "2009": {
+    "code": "2009",
+    "sysMessage": "订单异常",
+    "businessMessage": "订单异常",
+    "httpCode": "400"
+  },
+  "3001": {
+    "code": "3001",
+    "sysMessage": "查询参数有误",
+    "businessMessage": "查询参数有误",
+    "httpCode": "400"
+  },
+
+  "4001": {
+    "code": "4001",
+    "sysMessage": "密码错误",
+    "businessMessage": "密码错误",
+    "httpCode": "4001"
+  },
+
+  "8001": {
+    "code": "8001",
+    "sysMessage": "非法操作",
+    "businessMessage": "非法操作",
+    "httpCode": "400"
+  },
+  "8005": {
+    "code": "8005",
+    "sysMessage": "请求参数有误",
+    "businessMessage": "请求参数有误",
+    "httpCode": "400"
+  },
+  "8006": {
+    "code": "8006",
+    "sysMessage": "该申请不能操作",
+    "businessMessage": "该申请不能操作",
+    "httpCode": "400"
+  },
+  "8007": {
+    "code": "8007",
+    "sysMessage": "请求失败",
+    "businessMessage": "请求失败",
+    "httpCode": "400"
+  },
+  "9000": {
+    "code": "9000",
+    "sysMessage": "服务器异常",
+    "businessMessage": "服务器异常",
+    "httpCode": "500"
+  },
+  "9001": {
+    "code": "9001",
+    "sysMessage": "系统错误",
+    "businessMessage": "系统错误",
+    "httpCode": "500"
+  }
+}
